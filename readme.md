@@ -31,8 +31,8 @@ Then to launch annotation ui, run:
 ```python
 streamlit run app.py
 ```
-[Home page](./assets/home_page.png)
-[Annotate page](./assets/annotate_page.png)
+![Home page](./assets/home_page.png)
+![Annotate page](./assets/annotate_page.png)
 
 
 
