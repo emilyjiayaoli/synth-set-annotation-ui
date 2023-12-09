@@ -35,12 +35,15 @@ streamlit run app.py
 
 ### Navigating the Streamlit UI
 ![Annotate page](./assets/annotate_page.png)
-You can return to this page at any time by clicking the 'Return home' button or refreshing the page. Your annotation progress will be saved.
+You could return to this page at any time by clicking the 'Return home' button or refreshing the page. Your annotation progress will be saved.
 
-View and download your annotation results in the path:
+Now you can view and download your annotation results in the path:
 
 ```./annotation_res/<selected dataset path>-res.json```
 
 Once you are finished annotating, please upload your entire annotation results folder to the following Google Drive [folder](https://drive.google.com/drive/u/0/folders/1nHC7DwReQnypWBM3lYR1QtPfXmZaSRRQ) and rename it to ```annotation_res-<your_name>```.
 
 ```./annotation_res/```
+
+I hope this makes things easier! 
+~emily
