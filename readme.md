@@ -1,6 +1,6 @@
 
 ### Install streamlit
-```
+```python
 pip install streamlit 
 ```
 
@@ -13,6 +13,7 @@ pip install streamlit
 Make sure your current directory is under ```annotation-ui/```. 
 
 Your current directory should look like
+```python
 - /annotation-ui
   - app.py
   - configs.json
@@ -25,9 +26,9 @@ Your results folder should look like
       - ...
     - dataset1_name-metadata.json
   - ...
-
-Then to launch annotation ui, run:
 ```
+Then to launch annotation ui, run:
+```python
 streamlit run app.py
 ```
 
