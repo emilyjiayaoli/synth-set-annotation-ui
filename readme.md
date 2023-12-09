@@ -13,7 +13,7 @@ pip install streamlit
 Make sure your current directory is under ```annotation-ui/```. 
 
 Your current directory should look like
-```python
+```
 - /annotation-ui
   - app.py
   - configs.json
@@ -31,6 +31,10 @@ Then to launch annotation ui, run:
 ```python
 streamlit run app.py
 ```
+[Home page](./assets/home_page.png)
+[Annotate page](./assets/annotate_page.png)
+
+
 
 ### Navigating the streamlit ui
 You can return to this page at any time by clicking the 'Return home' button or refreshing the page. Your annotation progress will be saved.
@@ -39,7 +43,6 @@ View and download your annotation results in the path:
 
 ```./annotation_res/<selected dataset path>-res.json```
 
-Once you are finished annotating, please upload your entire annotation results folder to the following Google Drive folder and rename it to ```annotation_res-<your_name>```.
+Once you are finished annotating, please upload your entire annotation results folder to the following Google Drive [folder](https://drive.google.com/drive/u/0/folders/1nHC7DwReQnypWBM3lYR1QtPfXmZaSRRQ) and rename it to ```annotation_res-<your_name>```.
 
 ```./annotation_res/```
-Your annotation results will be stored in the /annoation_res folder. Follow the directions on the ui to upload results to the Google drive folder.
