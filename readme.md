@@ -18,7 +18,9 @@ Your current directory should look like
   - app.py
   - configs.json
   - /annotation_res (generated after launch)
+```
 Your results folder should look like
+```
 - /results
   - /dataset1_name
     - /images
