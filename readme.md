@@ -27,16 +27,14 @@ Your results folder should look like
     - dataset1_name-metadata.json
   - ...
 ```
-Then to launch annotation ui, run:
+Then to launch annotation UI, run:
 ```python
 streamlit run app.py
 ```
 ![Home page](./assets/home_page.png)
+
+### Navigating the Streamlit UI
 ![Annotate page](./assets/annotate_page.png)
-
-
-
-### Navigating the streamlit ui
 You can return to this page at any time by clicking the 'Return home' button or refreshing the page. Your annotation progress will be saved.
 
 View and download your annotation results in the path:
