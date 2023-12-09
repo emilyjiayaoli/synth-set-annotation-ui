@@ -1,5 +1,5 @@
 
-### Install streamlit
+### Install Streamlit
 ```python
 pip install streamlit 
 ```
@@ -10,7 +10,7 @@ pip install streamlit
 3. Change "root_path" in  ```configs.json``` is set to the directory containing the  ```results/``` folder containing 
 
 ### Run streamlit app
-Make sure your current directory is under ```annotation-ui/```. 
+4. Clone this repo. Make sure your current directory is under ```annotation-ui/```. 
 
 Your current directory should look like
 ```
