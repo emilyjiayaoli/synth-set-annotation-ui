@@ -7,7 +7,7 @@ pip install streamlit
 ### Downloading the unannotated image dataset
 1. Download assigned dataset [here](https://drive.google.com/drive/folders/1vkFJLx4YqdRTC4x_1SOAoQOA57GbN51Y?usp=sharing). Unzip if neccessary.
 2. Create a folder under any directory named ```results```, then move the downloaded dataset folder(s) into the ```results``` directory.
-3. Change "root_path" in  ```configs.json``` is set to the directory containing the  ```results/``` folder containing 
+3. Set the "root_path" in  ```configs.json``` to be the directory containing the  ```results/``` folder containing 
 
 ### Run streamlit app
 4. Clone this repo. Make sure your current directory is under ```annotation-ui/```. 
