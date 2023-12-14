@@ -14,7 +14,7 @@ pip install streamlit
 
 Your current directory should look like
 ```
-- /annotation-ui
+- /synth-set-annotation-ui
   - app.py
   - configs.json
   - /annotation_res (generated after launch)
