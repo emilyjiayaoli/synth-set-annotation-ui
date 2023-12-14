@@ -18,16 +18,13 @@ Your current directory should look like
   - app.py
   - configs.json
   - /annotation_res (generated after launch)
-```
-Your results folder should look like
-```
-- /results
-  - /dataset1_name
-    - /images
-      - wg_0_0_dalle3.jpeg
-      - ...
-    - dataset1_name-metadata.json
-  - ...
+  - /results
+    - /dataset1_name
+      - /images
+        - wg_0_0_dalle3.jpeg
+        - ...
+      - dataset1_name-metadata.json
+    - ...
 ```
 Then to launch annotation UI, run:
 ```python
